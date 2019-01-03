@@ -6138,8 +6138,21 @@ img {
   margin-top: 17px;
   border-radius: 2%; }
 
+.navbar-default {
+  background-color: #ffffff !important;
+  border-color: #C5C1C0 !important;
+  border-bottom-width: thin; }
+
+.well {
+  background-color: #D7CEC7 !important;
+  border-color: #373737 !important; }
+
+.panel-footer {
+  background-color: #ffffff !important; }
+
 body {
-  padding-top: 70px; }
+  padding-top: 70px;
+  background-color: #F4F4F4 !important; }
 
 figcaption {
   text-align: right;
