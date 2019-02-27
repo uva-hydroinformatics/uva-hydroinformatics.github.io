@@ -8,11 +8,11 @@ To build this webpage on OSX, follow these steps.
 
 1. Install Jekyll. These instructions may help: https://learn.cloudcannon.com/jekyll/install-jekyll-on-os-x/
 
-2. Clone repository. 
+2. Clone repository.
 
 3. In a terminal, type the following command to update bundler (first time only)
 
-bundle update 
+bundle update
 
 4. Change to the website's root directory
 
@@ -28,13 +28,13 @@ bundle exec jekyll serve
 
 6. After making changes, to files in these folders, simple refresh the website to see the changes.
 
-7. To deploy the site, first stop serving the website and then build the website using the following commands. 
+7. To deploy the site, first stop serving the website and then build the website using the following commands.
 
 ctrl-c (stops serving)
 
 bundle exec jekyll build
 
-8. Copy the contents of the _site folder to the website hosting the site. 
+8. Copy the contents of the _site folder to the website hosting the site.
 
 
-Copyright Jon Goodall 2018. Code released under the MIT License.
+Copyright Jon Goodall 2019. Code released under the MIT License.
