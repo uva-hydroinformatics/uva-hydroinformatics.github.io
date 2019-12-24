@@ -22,9 +22,9 @@ cd {INSERT DIRECTORY}/group_website
 
 bundle exec jekyll serve
 
-4. This generates the _site folder. Go to http://localhost:4000 to see the site
+4. This generates the <underscore>site folder. Go to http://localhost:4000 to see the site
 
-5. Edit files in the _data, _includes, _layouts, and _pages folders to edit the content and look of the site. Do not directly edit files in the _site folder.
+5. Edit files in the <underscore>data, <underscore>includes, <underscore>layouts, and <underscore>pages folders to edit the content and look of the site. Do not directly edit files in the <underscore>site folder.
 
 6. After making changes, to files in these folders, simple refresh the website to see the changes.
 
@@ -34,7 +34,7 @@ ctrl-c (stops serving)
 
 bundle exec jekyll build
 
-8. Copy the contents of the _site folder to the website hosting the site.
+8. Copy the contents of the <underscore>site folder to the website hosting the site.
 
 
 Copyright Jon Goodall 2019. Code released under the MIT License.
