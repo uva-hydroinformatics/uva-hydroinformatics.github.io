@@ -6,7 +6,7 @@ This website is powered by Jekyll and some Bootstrap and Bootwatch. It was forke
 
 To build this webpage on OSX, follow these steps.
 
-1. Install Jekyll. These instructions may help: https://learn.cloudcannon.com/jekyll/install-jekyll-on-os-x/
+1. Install Jekyll. https://jekyllrb.com/docs/installation/
 
 2. Clone repository.
 
