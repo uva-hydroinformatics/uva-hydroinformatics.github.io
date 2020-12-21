@@ -37,4 +37,4 @@ bundle exec jekyll build
 8. Copy the contents of the <underscore>site folder to the website hosting the site.
 
 
-Copyright Jon Goodall 2020. Code released under the MIT License.
+Copyright Jon Goodall 2021. Code released under the MIT License.
